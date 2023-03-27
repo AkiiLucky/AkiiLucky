@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AkiiLucky
 - 👀 I’m interested in AI, Web, ACG...
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on AI+Web
 - 📫 How to reach me (my email: 2581026417@qq.com)
 
