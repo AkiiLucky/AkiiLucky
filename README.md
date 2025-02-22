@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AkiiLucky
+- 👋 Hi, I’m @AkiiLucky, a master student at Institute of Computing Technology, Chinese Academy of Sciences (ICT)
 - 👀 I’m interested in AI, AIGC, CV, NLP...
 - 🌱 I’m currently learning 3D Gaussian Splatting
 - 💞️ I’m looking to collaborate on Gaussian-based Open World Understanding
