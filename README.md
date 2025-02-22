@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AkiiLucky
 - 👀 I’m interested in AI, AIGC, CV, NLP...
-- 🌱 I’m currently learning diffusion model
-- 💞️ I’m looking to collaborate on multicontrolnet for video generation
-- 📫 How to reach me (my email: 2581026417@qq.com)
+- 🌱 I’m currently learning 3D Gaussian Splatting
+- 💞️ I’m looking to collaborate on Gaussian-based Open Vocabulary Understanding
+- 📫 How to reach me (my email: youjingbin24s@ict.ac.cn)
 
 <!---
 AkiiLucky/AkiiLucky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
