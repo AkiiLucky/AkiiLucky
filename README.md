@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AkiiLucky
 - 👀 I’m interested in AI, AIGC, CV, NLP...
 - 🌱 I’m currently learning 3D Gaussian Splatting
-- 💞️ I’m looking to collaborate on Gaussian-based Open Vocabulary Understanding
+- 💞️ I’m looking to collaborate on Gaussian-based Open World Understanding
 - 📫 How to reach me (my email: youjingbin24s@ict.ac.cn)
 
 <!---
